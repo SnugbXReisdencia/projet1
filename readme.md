@@ -3,5 +3,6 @@ Olá esse é um arquivo em formato *Markdown*.
 Esse é meu primeiro projeto Git dentro da **Residência
 TIC18**.
 ## Objetivo
-Conhecer os comandos básicos e algumas recomendações
-para o uso do Git e do Github.
+Familiarizar-se com a IDE MS-Code. Aprender como compilar e
+executar programas dentro da IDE. Aprender a instalar
+complementos. Ter contato com os primeiros programas no curso.
