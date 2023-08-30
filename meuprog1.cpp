@@ -1,19 +1,20 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
+
+//using namespace std;
 
 int main(void)
 {
 
     system("clear");
-    string nome;
+    std::string nome;
 
-    cout << "Informe seu nome: ";
+    std::cout << "Informe seu nome: ";
 
-    cin >> nome;
+    std::cin >> nome;
 
-    cout << "Bom dia " << nome << endl;
-
+    std::cout << "Bom dia " << nome << " ! " <<std::endl;
+    
     return 0;
 }
